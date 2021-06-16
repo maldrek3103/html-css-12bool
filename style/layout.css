@@ -32,8 +32,24 @@
     flex-basis: auto;
 }
 
+.start{
+    justify-content: flex-start;
+}
+.end{
+    justify-content: flex-end;
+}
+.between{
+    justify-content: space-between;
+}
+.around{
+    justify-content: space-around;
+}
+.evenly{
+    justify-content: space-evenly;
+}
+
 /* COLUMN AUTO */
-.col{
+.grow{
     flex-grow: 1;
 }
 

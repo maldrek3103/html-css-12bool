@@ -1,8 +1,12 @@
-[class*='col']{
+[class*='col-']{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 200px;
     border: 1px solid black;
     background-color: #ffc0cb;
+}
+
+.bgc-darkpink{
+    background-color: #f07f80;
 }
